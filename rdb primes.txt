@@ -1,0 +1,61 @@
+<html>
+<head>
+<title>R.D.B PYMES </title>
+</head>
+
+<body background="Desktop\pagina\img\bg.png">
+<br>
+<br>
+<table border="0">
+     <tr>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+     <td><img src="C:\Users\Familia Urrea\Desktop\pagina\img\rdb.jpg"></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><h2><font color="7AF8E5" face="Forte">R.D.B PYMES</td></font></h2>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><a href="file:///C:/Users/Familia%20Urrea/Desktop/R.D.B%20PYMES.html">
+     <h4><font color="000000" face="Cooper">INICIO</td></font></a></h4></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+        <td><a href="quienes_somos.html">
+     <h4><font color="000000" face="Cooper">QUIENES SOMOS</td></font></a></h4></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+         <td><a href="contactanos.html">
+     <h4><font color="000000" face="Cooper">CONTACTANOS</td></font></a></h4></td>
+     </tr>
+</table>
+<hr color="black">
+<img src="C:\Users\Familia Urrea\Desktop\pagina\img\QUIENES SOMOS.png">
+<br>
+<br>
+<br>
+   <center>
+<h3><font color="000000" face="MV Boli">¿Cómo se podría disminuir la presencia de PM10 y metal situados en los diferentes 
+<br> sitios metalúrgicos encontrados en la ciudad?</font></h3>
+
+  <p>¡UN CARRO! y creeme que no es nada descabellado.
+<br>Les presentamos nuestro carro recolector de residuos PM10 y de metal que se pueden generar en el ambiente.
+<br> te estaras preguntando como y es sencillo de explicar el carro clasifica polvo y metal principalmente, reduciendo 
+<br>de una manera u otra la gran contaminación que estos dejan, la reducción de contaminación no será en mayoría debido 
+<br>a que se irá reduciendo de manera lenta ya que es muy difícil acabar con toda la contaminación encontrada en 
+<br>nuestro país, pero poco a poco se irá reduciendo su contaminación donde se verá  una mejoría.   </p> 
+<p>
+<br>
+<br>Te invitamos a mirar el siguiente video para que quedes aun mas sorprendido.</p>
+</center>
+
+<p><center>
+<a href="file:///C:/Users/Familia%20Urrea/Desktop/R.D.B%20PYMES.html">Inicio</a> - 
+<a href="quienes somos.html">Quienes somos</a> - 
+<a href="contactanos.html">Contactanos</a> - 
+<br> Copyright 2011 Envianos un mensaje al Gmail:
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJvkXqzKGrKNFdwzWNtmSnncrxkwvcCmnKMnxVNLlKxDlBRGfzpkWRxTCbkdVtqbdfdnzgV">Mishel123456@gmail.com</a>
+</center></p>
+
+<div id="sfcyc9eck7a6f3wlw89h3u73yrk2p8uq3bg"></div>
+<script type="text/javascript" src="https://counter3.stat.ovh/private/counter.js?c=yc9eck7a6f3wlw89h3u73yrk2p8uq3bg&down=async" async></script>
+<noscript><a href="https://www.contadorvisitasgratis.com" title="contador de visitas blogger"><img src="https://counter3.stat.ovh/private/contadorvisitasgratis.php?c=yc9eck7a6f3wlw89h3u73yrk2p8uq3bg" border="0" title="contador de visitas blogger" alt="contador de visitas blogger"></a></noscript>
+
+
+
+</body>
+</html>
